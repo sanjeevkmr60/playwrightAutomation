@@ -1,0 +1,5 @@
+2026-11-27 15:58:24 [error]:  Invalid locator: #username
+2026-11-27 15:58:29 [error]:  Invalid locator: input[name="username"]
+2026-11-27 15:58:34 [error]:  Invalid locator: .username
+2026-11-27 15:58:34 [error]:  Invalid locator: //*[@id='username]
+2026-11-27 15:58:34 [error]: All locators are invalid
